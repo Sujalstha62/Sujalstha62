@@ -1,4 +1,8 @@
-## Hi there 👋
+# Hi, I'm Sujal Shrestha<br>
+Computer Science student<br>
+Currently learning:Web Dev<br>
+Passionate about : AI, Robotics, Automation 
+Reach me:shresthasujal842@gmail.com
 
 <!--
 **Sujalstha62/Sujalstha62** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
