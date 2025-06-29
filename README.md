@@ -1,7 +1,7 @@
 # Hi, I'm Sujal Shrestha<br>
 Computer Science student<br>
 Currently learning:Web Dev<br>
-Passionate about : AI, Robotics, Automation <br>
+Passionate about : AI, Robotics, Automation, webdev <br>
 Reach me:shresthasujal842@gmail.com<br>
 
 
